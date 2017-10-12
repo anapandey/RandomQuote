@@ -29,6 +29,15 @@ header h2 {
     font-size: 150%;
 }
 
+/* footer area for copyright */
+footer {
+    position: fixed;
+    bottom:10px;
+    text-align: center;
+    margin:auto;
+    color:#3399ff;
+}
+
 /* main area forquote display and buttons */
 main {
     box-sizing: border-box;   /* makes a fluid layout */
